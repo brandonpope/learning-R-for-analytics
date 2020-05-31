@@ -1,9 +1,9 @@
 # learningR
 This repository is being created as a guided meta-resource to using R for analytics. The primary value for me comes from the organized documentation.
 
-I considered using the README.md of the root repo, the GitHub Wiki feature, or a folder of documention with a README.md itself along with a set of .md files. I choose the latter of the three options because:
+I considered using the `README.md` of the root repo, the GitHub Wiki feature, or a folder of documention with a `README.md` itself along with a set of .md files. I choose the latter of the three options because:
 1. I wanted more practices with the Issue/Pull request workflow
-2. The root repo README.md is most commonly a shorter description of the software/code in the repo
+2. The root repo `README.md` is most commonly a shorter description of the software/code in the repo (from what I've seen and what I read - I'm not a software developer myself).
 
 # Contributing
 If you have feedback or ideas for existing or new topics covered in this meta-resource, please [submit an issue!](https://github.com/brandonpope/learningR/issues/new/choose)
