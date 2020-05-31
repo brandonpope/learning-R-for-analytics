@@ -1,4 +1,4 @@
-# learningR For Analytics
+# Learning R For Analytics
 I created this repository for myself and others as a meta-resource to using R for analytics. The primary value for me comes from the organized documentation and interoperability across systems - I formerly had most of this information and links in various bookmark folders on multiple machines and in some onboarding materials I had developed at work.
 
 ## Design Decisions
