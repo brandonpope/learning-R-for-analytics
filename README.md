@@ -5,7 +5,8 @@ I considered using the README.md of the root repo, the GitHub Wiki feature, or a
 1. I wanted more practices with the Issue/Pull request workflow
 2. The root repo README.md is most commonly a shorter description of the software/code in the repo
 
-
+# Contributing
+If you have feedback or ideas for existing or new topics covered in this meta-resource, please [submit an issue!](https://github.com/brandonpope/learningR/issues/new/choose)
 
 # Installation
 
