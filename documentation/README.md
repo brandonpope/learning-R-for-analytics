@@ -16,7 +16,7 @@ This `README.md` file is a humble table of contents for the pages in this folder
 
 **Advanced Topics**
 
-7. [Advanced R Programming](https://github.com/brandonpope/learning-R-for-analytics/blob/master/documentation/Advanced-R-Programming)
+7. [Advanced R Programming](https://github.com/brandonpope/learning-R-for-analytics/blob/master/documentation/Advanced-R-Programming.md)
 8. Shiny for Interactive Reports
 9. Statistics
 10. Machine Learning and Artficial Intelligence
