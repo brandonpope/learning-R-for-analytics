@@ -6,7 +6,8 @@ This `README.md` file is a humble table of contents for the pages in this folder
 
 4. Data In/Out
 5. R Markdown for Reproducible Reports
-6. Shiny for Interactive Reports
+6. Visualization
+7. Shiny for Interactive Reports
 
-7. Statistics
-8. Machine Learning and Artficial Intelligence
+8. Statistics
+9. Machine Learning and Artficial Intelligence
