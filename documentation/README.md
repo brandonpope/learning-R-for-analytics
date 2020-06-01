@@ -9,14 +9,15 @@ This `README.md` file is a humble table of contents for the pages in this folder
 
 **R for Analytics Basics**
 
-4. Data In/Out
-5. [R Markdown for Reproducible Reports](https://github.com/brandonpope/learning-R-for-analytics/blob/master/documentation/R-Markdown-for-Reproducible-Reports.md)
-6. Visualization
+4. [Analytics Development in R](https://github.com/brandonpope/learning-R-for-analytics/blob/master/documentation/analytics-development-in-R.md)
+5. Data In/Out
+6. [R Markdown for Reproducible Reports](https://github.com/brandonpope/learning-R-for-analytics/blob/master/documentation/R-Markdown-for-Reproducible-Reports.md)
+7. Visualization
 
 
 **Advanced Topics**
 
-7. [Advanced R Programming](https://github.com/brandonpope/learning-R-for-analytics/blob/master/documentation/Advanced-R-Programming.md)
-8. Shiny for Interactive Reports
-9. Statistics
-10. Machine Learning and Artficial Intelligence
+8. [Advanced R Programming](https://github.com/brandonpope/learning-R-for-analytics/blob/master/documentation/Advanced-R-Programming.md)
+9. Shiny for Interactive Reports
+10. Statistics
+11. Machine Learning and Artficial Intelligence
