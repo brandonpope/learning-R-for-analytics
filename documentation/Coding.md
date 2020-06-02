@@ -14,3 +14,4 @@ This page is about coding and a bit about software engineering. Code is how we e
 
 - Colin Gillespie and Robin Lovelace - [Efficient R programming](https://csgillespie.github.io/efficientR/)
 - `styler` styler.r-lib.org
+- Wickham's [The tidyverse style guide](https://style.tidyverse.org/)
