@@ -13,4 +13,3 @@ R Markdown is R's approach to reproducible reports which contain code, analysis,
 
 ## Resources
 - Grolemund - [R Markdown: The bigger picture](https://rstudio.com/resources/rstudioconf-2019/r-markdown-the-bigger-picture/)
-- Grolemund - [Reproducibility in Production](https://rstudio.com/resources/webinars/reproducibility-in-production/)
