@@ -7,6 +7,8 @@ This page is about coding and a bit about software engineering. Code is how we e
 ## Documentation
 
 - Zach Holman's [*The Most Important Code Isn't Code*](https://zachholman.com/posts/documentation/)
+- Trey Causey's [Software development skills for data scientists](http://treycausey.com/software_dev_skills.html)
+- Kevin London's [Code Review Best Practices](https://www.kevinlondon.com/2015/05/05/code-review-best-practices.html)
 
 ## Resources
 
