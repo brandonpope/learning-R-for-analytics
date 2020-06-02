@@ -7,5 +7,6 @@
 - Genearlized Boosted Regression Model (GBM) [package](https://cran.r-project.org/web/packages/gbm/gbm.pdf) and [overview](http://www.saedsayad.com/docs/gbm2.pdf)
 
 ## Resources
-- tidymodels
+- [tidymodels](https://www.tidymodels.org/)
+- Kutkina and Feuerriegel (2016) [Deep Learning in R](http://www.rblog.uni-freiburg.de/2017/02/07/deep-learning-in-r/)
 
