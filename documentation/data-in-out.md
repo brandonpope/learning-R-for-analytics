@@ -3,6 +3,7 @@
 ## Resources
 
 - definitely check out the R for Data Science chapter on [Data Import](https://r4ds.had.co.nz/data-import.html)
+- Domino data lab's [benchmarking exercise](https://blog.dominodatalab.com/the-r-data-i-o-shootout/)
 
 ## Data Sources
 
