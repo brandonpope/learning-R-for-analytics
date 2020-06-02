@@ -6,6 +6,11 @@
 - [RStudio](https://rstudio.com/)
 - Git/GitHub
 
+
+## Packages
+- [tidyverse packages](https://www.tidyverse.org/)
+
+
 ## Setting Default Options
 
 
