@@ -21,3 +21,6 @@ This `README.md` file is a humble table of contents for the pages in this folder
 9. Shiny for Interactive Reports
 10. Statistics
 11. Machine Learning and Artficial Intelligence
+
+
+[Appendix](https://github.com/brandonpope/learning-R-for-analytics/blob/master/documentation/Appendix.md)
