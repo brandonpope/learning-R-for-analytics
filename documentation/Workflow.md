@@ -17,20 +17,35 @@
 - For basic GitHub workflows, see:
   - [GitHub Flow Guide](https://guides.github.com/introduction/flow/)
   - [Azure Dev Ops Git Repos tutorial](https://docs.microsoft.com/en-us/azure/devops/repos/git/gitworkflow?view=azure-devops)
+  - Depending on the size of your team/repository, and the complexity/maturity of your software development evironment, branch/release/deployment can get way more complicated than this docuent is meant to address
   - For getting started - I recommend the following workflow:
     1. Clone your repository
     ```
-    git clone <repository_url>
+    $ git clone <repository_url>
     ```
     2. Create a branch and check it out
     ```
-    git checkout -b <branch_name>
+    $ git checkout -b <branch_name>
     ```
     3. Make changes to the code as desired
     4. Commit the changes to the branch
     ```
     $ git add .
     $ git commit -m "comment describing your change"
+    ```
+    5. Switch back to the `master` branch
+    ```
+    $ git checkout master
+    ```
+    6. Push the changed branch to the origin
+    ```
+    $ git push origin <branch_name>
+    ```
+    7. From GitHub, create a pull request to merge `<branch_name>` with `master`
+    8. Review and (when appropriate) approve the pull request (and delete `<branch_name>`)
+    9. On your local machine, update `master`
+    ```
+    $ git pull origin master
     ```
 - [Here](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf) is a Git cheatsheet from GitHub
   
