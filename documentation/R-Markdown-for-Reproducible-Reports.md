@@ -8,6 +8,10 @@ R Markdown is R's approach to reproducible reports which contain code, analysis,
   - [book](https://bookdown.org/yihui/rmarkdown/)
   - [cheatsheet](https://rstudio.com/wp-content/uploads/2016/03/rmarkdown-cheatsheet-2.0.pdf?_ga=2.203920153.827268001.1590954168-246389919.1568690654)
 
+## Tables in RMarkdown
+- DataTable / [DT Package](https://rstudio.github.io/DT/)
+  - [DataTables Options](https://rstudio.github.io/DT/options.html)
+
 ## Cool Stuff
 - Parameterized knitting
 
