@@ -48,6 +48,12 @@
     $ git pull origin master
     ```
 - [Here](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf) is a Git cheatsheet from GitHub
-  
-## Resources
+
+## Reproducible Analyses
+
+- Anna Krystalli's [Reproducible Research Data & Project Management in R](https://annakrystalli.me/rrresearchACCE20/)
+- Software Carpentry's [R for Reproducible Scientific Analysis](http://swcarpentry.github.io/r-novice-gapminder/)
+- Dean Marchiori's [The meta-concepts of data analysis, workflows and projects in R](https://github.com/deanmarchiori/analysis-flow)
+
+## Other Resources
 - Jim Savage's [agile and testing thoughts](https://threader.app/thread/1136987234362691585)
