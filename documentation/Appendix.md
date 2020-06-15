@@ -6,6 +6,7 @@ This appendix for some people will be the most helpful section - it contains all
 - Keith McNulty's [Ten time saving R hacks](https://towardsdatascience.com/ten-time-saving-r-hacks-b411add26b96)
 - Asif Salam's [Create amazing PowerPoint slides using R](http://asifsalam.github.io/R-and-PowerPoint-Part-1/) series (also [here](https://blog.revolutionanalytics.com/2015/10/programmatically-create-interactive-powerpoint-slides-with-r.html) on Revolutions blog)
 - [bookdown](https://bookdown.org/yihui/bookdown/)
+- [sketcher](https://htsuda.net/sketcher/)
 
 
 **Analysis**
