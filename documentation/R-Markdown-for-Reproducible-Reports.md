@@ -11,6 +11,7 @@ R Markdown is R's approach to reproducible reports which contain code, analysis,
 ## Tables in RMarkdown
 - DataTable / [DT Package](https://rstudio.github.io/DT/)
   - [DataTables Options](https://rstudio.github.io/DT/options.html)
+- [reactable](https://glin.github.io/reactable/articles/examples.html#cross-widget-interactions), including cross-visual interaction
 
 ## Cool Stuff
 - Parameterized knitting
