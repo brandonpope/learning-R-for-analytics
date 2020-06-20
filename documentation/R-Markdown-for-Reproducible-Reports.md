@@ -13,8 +13,6 @@ R Markdown is R's approach to reproducible reports which contain code, analysis,
   - [DataTables Options](https://rstudio.github.io/DT/options.html)
 - [reactable](https://glin.github.io/reactable/articles/examples.html#cross-widget-interactions), including cross-visual interaction
 
-## Cool Stuff
-- Parameterized knitting
-
-## Resources
+## Resources / Other Cool Stuff
 - Grolemund - [R Markdown: The bigger picture](https://rstudio.com/resources/rstudioconf-2019/r-markdown-the-bigger-picture/)
+ - [officedown](https://davidgohel.github.io/officedown/) for generating MS Word, PowerPoint documents from R
