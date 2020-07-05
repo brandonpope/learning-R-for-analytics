@@ -12,3 +12,4 @@ Statistics is one of the original and most commonly associated use-cases with R.
 - Danielle Navarro's [Learning Statistics with R](https://learningstatisticswithr.com/) - introductory stats book using base R and `lsr` package
 
 - Germán Rodríguez has a concise web resource on linear models in R [Inroducing R](https://data.princeton.edu/R).
+- Richard McElreath's [Statistical Rethinking](https://xcelab.net/rm/statistical-rethinking/) - a Bayesian stats course with examples in R.
