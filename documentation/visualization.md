@@ -12,5 +12,6 @@
 - [ggmap quickstart](https://www.nceas.ucsb.edu/sites/default/files/2020-04/ggmapCheatsheet.pdf)
 
 
-## Other Types of Graphs
+## Other Visualization Packages
 - [networkD3](http://christophergandrud.github.io/networkD3/)
+- [r2d3](https://rstudio.github.io/r2d3/)
