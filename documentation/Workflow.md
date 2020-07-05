@@ -16,6 +16,7 @@
   - Transparency and discoverability through a centralized repository of production code
 - For basic GitHub workflows, see:
   - [GitHub Flow Guide](https://guides.github.com/introduction/flow/)
+  - Roger Dudler's [git - the simple guide](https://rogerdudler.github.io/git-guide/)
   - [Azure Dev Ops Git Repos tutorial](https://docs.microsoft.com/en-us/azure/devops/repos/git/gitworkflow?view=azure-devops)
   - Depending on the size of your team/repository, and the complexity/maturity of your software development evironment, branch/release/deployment can get way more complicated than this docuent is meant to address
   - For getting started - I recommend the following workflow:
