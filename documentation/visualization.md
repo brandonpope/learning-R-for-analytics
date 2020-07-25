@@ -1,7 +1,9 @@
 # Visualization
 
 ## Resources
-- [R color cheatsheet](https://www.nceas.ucsb.edu/sites/default/files/2020-04/colorPaletteCheatsheet.pdf)
+- Colors
+  - Eran Raviv's [R tips and tricks, on-screen colors](https://eranraviv.com/r-tips-tricks-screen-colors/)
+  - [R color cheatsheet](https://www.nceas.ucsb.edu/sites/default/files/2020-04/colorPaletteCheatsheet.pdf)
 - [R Graph Gallery](https://www.r-graph-gallery.com/)
 - [Leaflet](http://rstudio.github.io/leaflet/)
 - [htmlwidgets](http://www.htmlwidgets.org/)
