@@ -1,6 +1,7 @@
 # Visualization
 
 ## Resources
+- Claus Wile's [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/)
 - Colors
   - Eran Raviv's [R tips and tricks, on-screen colors](https://eranraviv.com/r-tips-tricks-screen-colors/)
   - [R color cheatsheet](https://www.nceas.ucsb.edu/sites/default/files/2020-04/colorPaletteCheatsheet.pdf)
