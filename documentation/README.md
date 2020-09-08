@@ -2,7 +2,7 @@ This `README.md` file is a humble table of contents for the pages in this folder
 
 **Getting to work**
 
-1. [Getting Started](https://github.com/brandonpope/learningR/blob/master/documentation/Getting-Started.md)
+1. [Getting Started](https://github.com/brandonpope/learningR/blob/master/documentation/01-Getting-Started.md)
 2. [Coding](https://github.com/brandonpope/learningR/blob/master/documentation/Coding.md)
 3. [Workflow](https://github.com/brandonpope/learningR/blob/master/documentation/Workflow.md)
 4. [Reading for the analytics profession](https://github.com/brandonpope/learning-R-for-analytics/blob/master/documentation/04-analyticsReading.md)
