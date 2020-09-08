@@ -19,16 +19,16 @@
   - Roger Dudler's [git - the simple guide](https://rogerdudler.github.io/git-guide/)
   - [Azure Dev Ops Git Repos tutorial](https://docs.microsoft.com/en-us/azure/devops/repos/git/gitworkflow?view=azure-devops)
   - Depending on the size of your team/repository, and the complexity/maturity of your software development evironment, branch/release/deployment can get way more complicated than this docuent is meant to address
-  - For getting started - I recommend the following workflow:
-    1. Clone your repository
+  - For getting started - I recommend the following workflow. This workflow is written to be executed from the command line, but could similarly be partially/completely executed from a web GUI (Azure DevOps, GitHub...):
+    1. Clone your repository by copying the url
     ```
     $ git clone <repository_url>
     ```
-    2. Create a branch and check it out
+    2. Create a branch and check it out - choose a branch name related to the features/fix/development you are working on
     ```
     $ git checkout -b <branch_name>
     ```
-    3. Make changes to the code as desired
+    3. Make changes to the code as desired and save files
     4. Commit the changes to the branch
     ```
     $ git add .
@@ -42,7 +42,7 @@
     ```
     $ git push origin <branch_name>
     ```
-    7. From GitHub, create a pull request to merge `<branch_name>` with `master`
+    7. Create a pull request to merge `<branch_name>` with `master`
     8. Review and (when appropriate) approve the pull request (and delete `<branch_name>`)
     9. On your local machine, update `master`
     ```
