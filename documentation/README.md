@@ -12,7 +12,7 @@ This `README.md` file is a humble table of contents for the pages in this folder
 
 5. [Analytics Development in R](https://github.com/brandonpope/learning-R-for-analytics/blob/master/documentation/analytics-development-in-R.md)
 6. [Data In/Out](https://github.com/brandonpope/learning-R-for-analytics/blob/master/documentation/data-in-out.md)
-7. [R Markdown for Reproducible Reports](https://github.com/brandonpope/learning-R-for-analytics/blob/master/documentation/R-Markdown-for-Reproducible-Reports.md)
+7. [R Markdown for Reproducible Reports](https://github.com/brandonpope/learning-R-for-analytics/blob/master/documentation/07-R-Markdown-for-Reproducible-Reports.md)
 8. [Visualization](https://github.com/brandonpope/learning-R-for-analytics/blob/master/documentation/visualization.md)
 
 
