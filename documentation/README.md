@@ -21,7 +21,7 @@ This `README.md` file is a humble table of contents for the pages in this folder
 9. [Advanced R Programming](https://github.com/brandonpope/learning-R-for-analytics/blob/master/documentation/Advanced-R-Programming.md)
 10. Shiny for Interactive Reports
 11. [Statistics](https://github.com/brandonpope/learning-R-for-analytics/blob/master/documentation/Statistics.md)
-12. Machine Learning and Artficial Intelligence
+12. [Machine Learning and Artficial Intelligence](https://github.com/brandonpope/learning-R-for-analytics/blob/master/documentation/12-ML-and-AI.md)
 
 
 [Appendix](https://github.com/brandonpope/learning-R-for-analytics/blob/master/documentation/Appendix.md)
