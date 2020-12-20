@@ -1,5 +1,9 @@
 # Workflow
 
+## Organization
+- [ProjectTemplate](http://projecttemplate.net/) - a system and structure for organizing projects
+- Jenny Bryan's advise on naming things
+
 ## Version Control
 
 - Version control is something that I still don't have good habits/maturity around, but is really important to scale analytics efforts well (in time, team, complexity...).
