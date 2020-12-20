@@ -13,5 +13,6 @@ This page is about coding and a bit about software engineering. Code is how we e
 ## Resources
 
 - Colin Gillespie and Robin Lovelace - [Efficient R programming](https://csgillespie.github.io/efficientR/)
-- [`styler`](styler.r-lib.org) - a package to support formatting of code in adherence to the tidyverse formatting rules.
+- [`styler`](styler.r-lib.org) - a package to support formatting of code in adherence to the tidyverse formatting rules
+- [`lintr`](https://github.com/jimhester/lintr) - a package which checks code for adherence to style and syntax rules
 - Wickham's [The tidyverse style guide](https://style.tidyverse.org/)
