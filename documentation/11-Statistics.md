@@ -1,6 +1,6 @@
 # Statistics
 
-Statistics is one of the original and most commonly associated use-cases with R. These resources cover the major concepts/topics of a statistics class with a partial/heavy focus on examples in R.
+Statistics is one of the original and most commonly associated use-cases with R, in fact I was first introduced to R in STAT 377 in Dr. Mark Rigg's class at Abilene Christian University. These resources cover the major concepts/topics of a statistics class with a partial/heavy focus on examples in R.
 
 ## Resources
 
