@@ -1,8 +1,10 @@
 # Workflow
 
+One of my favorite resources is Jenny Bryan and Jim Hester's [What They Forgot to Teach You About R](https://rstats.wtf/).
+
 ## Organization
 - [ProjectTemplate](http://projecttemplate.net/) - a system and structure for organizing projects
-- Jenny Bryan's advise on naming things
+- [`here`](https://cran.r-project.org/web/packages/here/vignettes/here.html) - a package for helping with path-independent file referencing.
 
 ## Version Control
 
@@ -19,6 +21,7 @@
   - Issue creation
   - Transparency and discoverability through a centralized repository of production code
 - For basic GitHub workflows, see:
+  - [Happy Git and GitHub for the useR](https://happygitwithr.com/)
   - [GitHub Flow Guide](https://guides.github.com/introduction/flow/)
   - Roger Dudler's [git - the simple guide](https://rogerdudler.github.io/git-guide/)
   - [Azure Dev Ops Git Repos tutorial](https://docs.microsoft.com/en-us/azure/devops/repos/git/gitworkflow?view=azure-devops)
