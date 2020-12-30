@@ -11,6 +11,7 @@ The visualization concepts included here include tables, graphs, use of color, a
 - [`htmlwidgets`](http://www.htmlwidgets.org/)
 - [`networkD3`](http://christophergandrud.github.io/networkD3/)
 - [`r2d3`](https://rstudio.github.io/r2d3/)
+- [using logo's with bar/bullet charts](https://themockup.blog/posts/2020-11-29-bullet-chart-variants-in-r/)
 
 
 ## Colors
