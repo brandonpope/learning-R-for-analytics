@@ -26,4 +26,5 @@ The visualization concepts included here include tables, graphs, use of color, a
 - [ggmap quickstart](https://www.nceas.ucsb.edu/sites/default/files/2020-04/ggmapCheatsheet.pdf)
 - [`leaflet`](http://rstudio.github.io/leaflet/)
 
-
+## References
+- Cedric Scherer has a very nice [website](https://cedricscherer.netlify.app/) with links, beautiful visualization examples, and a [ggplot2 tutorial](https://cedricscherer.netlify.app/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/)
