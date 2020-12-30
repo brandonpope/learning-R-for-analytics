@@ -11,7 +11,7 @@ This `README.md` file is a humble table of contents for the pages in this folder
 **R for Analytics Basics**
 
 5. [Analytics Development in R](https://github.com/brandonpope/learning-R-for-analytics/blob/master/documentation/05-analytics-development-in-R.md)
-6. [Data In/Out](https://github.com/brandonpope/learning-R-for-analytics/blob/master/documentation/06-data-in-out.md)
+6. [Data In, Wrangled, and Out](https://github.com/brandonpope/learning-R-for-analytics/blob/master/documentation/06-data-in-wrangled-out.md)
 7. [R Markdown for Reproducible Reports](https://github.com/brandonpope/learning-R-for-analytics/blob/master/documentation/07-R-Markdown-for-Reproducible-Reports.md)
 8. [Visualization](https://github.com/brandonpope/learning-R-for-analytics/blob/master/documentation/08-visualization.md)
 
