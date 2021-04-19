@@ -41,19 +41,19 @@ One of my favorite resources is Jenny Bryan and Jim Hester's [What They Forgot t
     $ git add .
     $ git commit -m "comment describing your change"
     ```
-    5. Switch back to the `master` branch
+    5. Switch back to the `main` branch
     ```
-    $ git checkout master
+    $ git checkout main
     ```
     6. Push the changed branch to the origin
     ```
     $ git push origin <branch_name>
     ```
-    7. Create a pull request to merge `<branch_name>` with `master`
+    7. Create a pull request to merge `<branch_name>` with `main`
     8. Review and (when appropriate) approve the pull request (and delete `<branch_name>`)
-    9. On your local machine, update `master`
+    9. On your local machine, update `main`
     ```
-    $ git pull origin master
+    $ git pull origin main
     ```
 - [Here](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf) is a Git cheatsheet from GitHub
 
